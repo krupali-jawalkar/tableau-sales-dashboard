@@ -25,9 +25,7 @@ Total Profit:$27,899K
 
 📈 +43.7% vs Previous Year
 
-👉 Provides a quick snapshot of overall business growth.
-
----
+![image alt](https://github.com/krupali-jawalkar/tableau-sales-dashboard/blob/76ccd878813583afd78823ac72240a18d49e6215/KPI%20PROFIT.JPG)
 
 ### 📈 Sales & Profit Trends (Monthly)
 
