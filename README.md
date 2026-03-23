@@ -78,7 +78,7 @@ Key observations:
 
 🔹 Main Dashboard
 
-![image alt](https://github.com/krupali-jawalkar/tableau-sales-dashboard/blob/e99927ecbd649ecda9788645f96b054a6541e783/SALES%20DASHBOARD.JPG)
+![image alt](https://github.com/krupali-jawalkar/tableau-sales-dashboard/blob/e4116ff3dda9cf24d5e62434862db8b127b5e6d1/SALES%20DASHBOARD.JPG)
 
 🚀 Key Insights
 
